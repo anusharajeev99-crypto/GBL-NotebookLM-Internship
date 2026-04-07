@@ -17,4 +17,4 @@ This repository documents my Grade 11 internship project with **GBL Internationa
 **#AI** **#Learning** **#NotebookLM** **#Education** **#GBLInternational**
 
 ## Sample Outputs
-- [Economics Chapter 1 – Video Summary](economics-chapter1-video-summary.mp4)
+- [Economics Chapter 1 – Video Summary](Economics%20Chapter%201%20video%20summary.mp4)
