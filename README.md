@@ -2,7 +2,7 @@
 
 ---
 
-##📌About
+## 📌About
 
 This repository showcases my internship project with **GBL International**, where I explored how to use **Google’s NotebookLM** to make studying, improve my understanding of communication and trust-based concpts and research more effective through AI-assisted learning.
 
@@ -10,14 +10,14 @@ This repository showcases my internship project with **GBL International**, wher
 
 ---
 
-##🗒️What This Project Covers
+## 🗒️What This Project Covers
 - Research notes and AI-generated summaries
 - Reflections on how NotebookLM supports learning
 - Screenshots and experiments with study topics
 
 ---
 
-##🎯Objective
+## 🎯Objective
 The goal of this project is to:
 - Organize key concepts from my learning modules
 - Use AI tools to structure and simplify information
@@ -25,7 +25,7 @@ The goal of this project is to:
 
 ---
 
-##🧠What I Learned
+## 🧠What I Learned
 Through this project, I learned :
 - The importance of **trust** in communication
 - How **signals** convey hidden information like intelligene and commitment
@@ -33,14 +33,14 @@ Through this project, I learned :
 
 ---
 
-##🧠Skills Gained
+## 🧠Skills Gained
 - AI tools usage
 - Content Summarization
 - Research Structuring
 
 ---
 
-##🚀Tools I Used
+## 🚀Tools I Used
 - NotebookLM (for organizing and structuring information)
 - GitHub (for documentation and sharing work)
 
