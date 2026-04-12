@@ -1,42 +1,25 @@
-# GBL International — NotebookLM Internship Project
+# GBL International — NotebookLM Project
 
 ---
 
 ## 📌About
 
-This repository showcases my internship project with **GBL International**, where I explored how to use **Google’s NotebookLM** to make studying, improve my understanding of communication and trust-based concpts and research more effective through AI-assisted learning.
+This repository showcases my works and notes created using **Google’s NotebookLM** during my internship at **GBL International**.
 
 🔗**View my NotebookLM here:** [Open NotebookLM](https://notebooklm.google.com/notebook/ab04710f-277c-4d72-8dde-42a5518be156)
 
 ---
 
-## 🗒️What This Project Covers
-- Research notes and AI-generated summaries
-- Reflections on how NotebookLM supports learning
-- Screenshots and experiments with study topics
+## 📂Contents
+- Notes generated using AI
+- Mindmaps and Summaries
+- Learning Experiments
 
 ---
 
-## 🎯Objective
-The goal of this project is to:
-- Organize key concepts from my learning modules
-- Use AI tools to structure and simplify information
-- Improve clarity and understanding through visual representation
+## 🎯Purpose
 
----
-
-## 🧠What I Learned
-Through this project, I learned :
-- The importance of **trust** in communication
-- How **signals** convey hidden information like intelligene and commitment
-- How **cooperation** works in social dilemmas
-
----
-
-## 🧠Skills Gained
-- AI tools usage
-- Content Summarization
-- Research Structuring
+To explore how AI tools like NOtebookLM can be used for learning and organixing information.
 
 ---
 
